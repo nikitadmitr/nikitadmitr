@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h2><a href="#!"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=500&lines=hey+there!+my+name+is+Nikita;i'm+fond+of+coding;i+would+like+you+to+enjoy+my+profile;let's+not+languish;we'll+start+with+http+status+codes;100+-+continue;101+-+switching+protocols;102+-+processing;103+-+early+hints;200+-+OK;201-+created;202+-+accepted;203+-+non-authoritative+information;204+-+no+content;205+-+reset+content;206+-+partial+content;207+-+multi-status;208+-+already+reported;226+-+IM+used;300+-+multiple+choices;301+-+moved+permanently;302+-+found;303+-+see+other;304+-+not+modified;305+-+use+proxy+(deprecated);306+-+unused;307+-+temporary+redirect;308+-+permanent+redirect;400+-+bad+request;401+-+unauthorized;402+-+payment+required;403+-+forbidden;404+-+not+found;405+-+method+not+allowed;406+-+not+acceptable;407+-+proxy+authentication+required;408+-+request+timeout;409+-+conflict;410+-+gone;411+-+length+required;412+-+precondition+failed;413+-+payload+too+large;414+-+URI+too+long;415+-+unsupported+media+type;416+-+range+not+satisfiable;417+-+expectation+failed;418+-+i'm+a+teapot;421+-+misdirected+request;422+-+unprocessable+content;423+-+locked;424+-+failed+dependency;425+-+too+early;426+-+upgrade+required;428+-+precondition+required;429+-+too+many+requests;451+-+unavailable+for+legal+reasons;500+-+internal+server+error;501+-+not+implemented;502+-+bad+gateway;503+-+service+unavailable;504+-+gateway+timeout;505+-+HTTP+version+not+supported;506+-+variant+also+negotiates;507+-+insufficient+storage;508+-+loop+detected;510+-+not+extended;511+-+network+authentication+required;are+you+tired%3F;ok%2C+see+you+later;..." alt="Typing SVG" /></a></a></h2>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300px"/>
+  <h2><a href="#!"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=2000&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&random=false&width=500&lines=hey+there!+my+name+is+Nikita;and+i+could+say+lots+of+things...;but+this+section+needs+its+title%2C+so..;hey+there!+my+name+is+Nikita" alt="Typing SVG" /></a></a></h2>
+  <img src="https://media.giphy.com/media/1FZqAOn4hzGO4/giphy.gif" width="300px"/>
    <p align="center">
     <br/>
     <a href="https://leetcode.com/dmitrevnik/" target="_blank"><img align="center"
@@ -36,12 +36,26 @@
   </p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitadmitr&bg_color=0D1117&color=ffffff&line=ffffff&point=2effcb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![my activity](https://github-readme-activity-graph.vercel.app/graph?username=nikitadmitr&bg_color=0D1117&color=ffffff&line=2effcb&point=ffffff&hide_border=true&hide_title=true)
 
-----
-
+<br>
 
 <div id="skills" align="center">
-  <h1><a href="#!"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=500&lines=technologies+i+use" alt="Typing SVG" /></a></h1>
+  <h2><a href="#!"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=4000&pause=4000&background=0D1117&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=500&lines=about+me" alt="Typing SVG" /></a></h2>
+  <p align="center">
+    <p>I'm a 4th year student at a technical university, majoring in web development. I have about 3 years of practical experience in web-development. This way I can develop both client and server parts of web. I've been in love with programming for about 7 years now. I know various concepts of algorithms and computer science. And what I think is the most important thing - I don’t want to stop self-developing at all and try to learn new technologies and principles every day</p>
+    <br>
+    <h3>facts</h3>
+    <p>👨‍💻 I'm currently working fullstack engineer at AVM</p>
+    <p>📝 I'm currently learning Go</p>
+    <p>🌐 I know a lot about computer science, javascript (ts), vue.js, nest.js</p>
+    <p>📧 Contact me via email</p>
+    <p>🐘 Interesting fact: elephants live about 60 years</p>
+    <br>
+    <h3>skills</h3>
+    <a href="#!">
+      <img src="https://skillicons.dev/icons?i=html,sass,docker,express,figma,git,ts,mysql,nestjs,linux,nodejs,postgres,react,vue,tailwind,vite,webpack,vscode,gulp,jest&perline=10" />
+    </a>
+  </p>
 </div>
 
