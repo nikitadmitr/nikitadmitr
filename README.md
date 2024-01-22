@@ -49,7 +49,7 @@
     <p>👨‍💻 I'm currently working fullstack engineer at AVM</p>
     <p>📝 I'm currently learning Go</p>
     <p>🌐 I know a lot about computer science, javascript (ts), vue.js, nest.js</p>
-    <p>📧 Contact me via email</p>
+    <p>📧 Contact me via email - <a href="mailto:dmitrevnik@gmail.com">dmitrevnik@gmail.com</a></p>
     <p>🐘 Interesting fact: elephants live about 60 years</p>
     <br>
     <h3>skills</h3>
