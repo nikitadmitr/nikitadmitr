@@ -41,7 +41,6 @@
 <br>
 
 <div id="skills" align="center">
-    <br>
     <h3>facts</h3>
     <p>👨‍💻 I'm currently working fullstack engineer at AVM</p>
     <p>📝 I'm currently learning Go</p>
