@@ -41,9 +41,6 @@
 <br>
 
 <div id="skills" align="center">
-  <h2><a href="#!"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=4000&pause=4000&background=0D1117&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=500&lines=about+me" alt="Typing SVG" /></a></h2>
-  <p align="center">
-    <p>I'm a 4th year student at a technical university, majoring in web development. I have about 3 years of practical experience in web-development. This way I can develop both client and server parts of web. I've been in love with programming for about 7 years now. I know various concepts of algorithms and computer science. And what I think is the most important thing - I don’t want to stop self-developing at all and try to learn new technologies and principles every day</p>
     <br>
     <h3>facts</h3>
     <p>👨‍💻 I'm currently working fullstack engineer at AVM</p>
