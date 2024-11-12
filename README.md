@@ -49,7 +49,7 @@
     <br>
     <h3>skills</h3>
     <a href="#!">
-      <img src="https://skillicons.dev/icons?i=html,sass,docker,express,nginx,git,ts,mysql,nestjs,linux,nodejs,postgres,react,vue,tailwind,vite,webpack,redis,gulp,jest&perline=10" />
+      <img src="https://skillicons.dev/icons?i=html,sass,docker,express,nginx,git,ts,mysql,nestjs,linux,nodejs,postgres,react,vue,tailwind,vim,webpack,redis,gulp,jest&perline=10" />
     </a>
   </p>
 </div>
