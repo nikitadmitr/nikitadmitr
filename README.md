@@ -36,7 +36,7 @@
   </p>
 </div>
 
-![my activity](https://github-readme-activity-graph.vercel.app/graph?username=nikitadmitr&bg_color=0D1117&color=ffffff&line=2effcb&point=ffffff&hide_border=true&hide_title=true)
+![my activity](https://github-readme-activity-graph.vercel.app/graph?username=dmitrevnik&bg_color=0D1117&color=ffffff&line=2effcb&point=ffffff&hide_border=true&hide_title=true)
 
 <br>
 
